@@ -13,7 +13,7 @@ const Section = () => {
             <li>SHOP</li>
         </ul>
       </div>
-      <div className='bg-[url("src/Components/images/spacex.png")] bg-no-repeat bg-cover h-screen flex justify-end flex-col pb-40 pl-20'>
+      <div className='bg-[url(public/sky.png)] bg-no-repeat bg-cover h-screen flex justify-end flex-col pb-40 pl-20'>
         <p className='text-white text-2xl mb-10  px-4'>upcoming lunch</p>
         <p className="text-white text-3xl mb-6  px-4  font-bold ">CRS-25 MISSION</p>
         <button className=" border-2  w-40 h-8  text-white font-bold">REWATCH</button>
